@@ -1,0 +1,1 @@
+<?php echo "Railway PHP is working"; ?> 
